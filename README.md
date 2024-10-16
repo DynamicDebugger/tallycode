@@ -32,11 +32,11 @@ Check out the live version of our project here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tally-code-platform.git
+   git clone https://github.com/DynamicDebugger/tallycode.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd tally-code-platform
+   cd tallycode
    ```
 3. Install dependencies:
    ```bash
@@ -60,4 +60,4 @@ We welcome contributions! To get started:
 
 ## 📧 Contact
 
-For any inquiries or feedback, feel free to reach out via [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, feel free to reach out via [email@example.com](mailto:balaasubramani285@gmail.com).
