@@ -10,7 +10,7 @@ Check out the live version of our project here:
 
 ## 📚 Features
 
-- **Multi-Language Support**: Write and run code in multiple programming languages, including Python, JavaScript, C++, and more.
+- **Multi-Language Support**: Write and run code in multiple programming languages, including Python, JavaScript, Java, and more.
 - **Instant Code Preview**: Get real-time feedback as you write and compile your code.
 - **User-Submitted Problems**: Users can submit their own coding challenges for others to solve.
 - **Responsive UI**: Optimized for desktop and mobile devices, ensuring an intuitive experience across all platforms.
