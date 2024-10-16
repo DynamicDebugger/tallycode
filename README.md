@@ -60,4 +60,4 @@ We welcome contributions! To get started:
 
 ## 📧 Contact
 
-For any inquiries or feedback, feel free to reach out via [email@example.com](mailto:balaasubramani285@gmail.com).
+For any inquiries or feedback, feel free to reach out via [Balasubramani E](mailto:balaasubramani285@gmail.com).
